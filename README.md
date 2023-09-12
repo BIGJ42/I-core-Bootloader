@@ -6,7 +6,7 @@ This project is built from an opencore bootloader and is a ready-to-use Mac os B
 
 A minimum 2GB USB Stick,
 A windows or linux Machine (Preferably Windows),
-[The downloaded zip file](https://github.com/bigj42/MacOS-Recovery-USB/releases/latest),
+[The downloaded zip file](https://github.com/bigj42/I-core-Bootloader/releases/latest),
 At least 3 Brain cells.
 
 
