@@ -15,7 +15,7 @@ At least 3 Brain cells.
 1. Download the .zip file and extract the contents to any location on your PC
 2. Format the USB Drive to device defaults.
 3. Drag the EFI Folder to the USB.
-4. Choose the version of Mac os to install (Ventura and Coming soon.)
+4. Choose the version of Mac os to install (Sonoma Coming soon.)
 5. Open the folder of the version of choice and drag the com.apple.recovery.boot folder in it to the usb.
 6. Boot and install Mac OS.
 
