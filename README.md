@@ -1,4 +1,4 @@
-# MacOS-Recovery-USB
+# I-Core-Bootloader
 
 This project is built from an opencore bootloader and is a ready-to-use Mac os Bootloader to use on any UEFI PC or laptop.
 
