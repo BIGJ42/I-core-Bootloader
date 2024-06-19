@@ -23,7 +23,3 @@ Note: You may want to change some kexts and system files to fit your PC Specs.
 
 This bootloader was Built from the opencore bootloader.
 
-Current known issues:
-1. Ventura not booting with given EFI. (You can create your own.)
-2. Audio may not work.
-3. Bluetooth may not work.
